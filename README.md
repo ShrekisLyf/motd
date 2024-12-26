@@ -1,0 +1,2 @@
+# motd
+mordhau motd
