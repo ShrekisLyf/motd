@@ -6,7 +6,7 @@
 ### 4. Respect Admins **Follow instructions**
 
 **Gorge's Duels Discord**
-<a id="Join our Discord">https://discord.gg/mordhau</>
+<a id="Join our Discord">Coming Soon</>
 
 1. Follow all server rules
 2. Have fun and duel honorably
@@ -16,4 +16,4 @@
 * Report any issues to admins
 * Check our Discord for updates
 
-![Seymour](https://cdn.discordapp.com/attachments/288528119525146635/890746648089722940/seymour-plush.jpg)
+![Seymour](https://i.imgur.com/l4ZOFI4.png)
