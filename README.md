@@ -8,8 +8,6 @@
 **Gorge's Duels Discord**
 <a id="Join our Discord">https://discord.gg/JUAMGP8N4z</>
 
-1. Follow all server rules
-2. Have fun and duel honorably
 
 **Additional Information**
 * Duels only, no team fights
