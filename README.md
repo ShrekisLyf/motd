@@ -6,7 +6,7 @@
 ### 4. Respect Admins **Follow instructions**
 
 **Gorge's Duels Discord**
-<a id="Join our Discord">https://discord.gg/JUAMGP8N4z</>
+<a id="Join our Discord">https://discord.gg/XqnG8kUfxu</>
 
 
 **Additional Information**
