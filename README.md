@@ -1,6 +1,6 @@
 # Welcome to Gorge's Duels **Enjoy your stay!**
 ## Server Rules **Please read carefully**
-### 1. No Free For All (FFA) **Respect others**
+### 1. No Free For All (FFA) Except if Stated by Admins **Respect others**
 ### 2. No Toxic Behavior **Keep it friendly**
 ### 3. No Cheating **Play fair**
 ### 4. Respect Admins **Follow instructions**
@@ -10,7 +10,7 @@
 
 
 **Additional Information**
-* Duels only, no team fights
+* We have 4 Mods installed - ServersideCmds for Admins, Radio + Voip Mod and Spawner Menu for Admins
 * Report any issues to admins
 * Check our Discord for updates
 
