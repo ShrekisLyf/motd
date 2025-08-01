@@ -10,7 +10,7 @@
 
 
 **Additional Information**
-* We have 4 Mods installed - ServersideCmds for Admins, Radio + Voip Mod and Spawner Menu for Admins
+* We have 4 Mods installed - ServersideCmds for Admins, Radio + Custom Emotes and Spawner Menu for Admins
 * Report any issues to admins
 * Check our Discord for updates
 
