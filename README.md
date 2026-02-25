@@ -1,2 +1,2 @@
-![Seymour](https://imgur.com/a93d007e-8ebf-4b66-8f3c-41cd36e63e71)
+![Seymour](https://imgur.com/8e390dbc-fa74-4c1d-8697-838e5230e6d0 )
 <a id="Join our Discord">https://discord.gg/Apm7CkbDhD</>
